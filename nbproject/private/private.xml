@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/SalesV1/src/entities/Sales.java</file>
+            <file>file:/E:/SalesV1/src/gui/Menu.java</file>
+            <file>file:/E:/SalesV1/src/gui/Login.java</file>
+            <file>file:/E:/SalesV1/src/salesv1/SalesV1.java</file>
+            <file>file:/E:/SalesV1/src/implement/ImplPerson.java</file>
+            <file>file:/E:/SalesV1/src/entities/DetailSales.java</file>
+            <file>file:/E:/SalesV1/src/entities/Client.java</file>
+            <file>file:/E:/SalesV1/src/entities/Person.java</file>
+            <file>file:/E:/SalesV1/src/conexion/ConexionMysql.java</file>
+            <file>file:/E:/SalesV1/src/entities/Worker.java</file>
+        </group>
+    </open-files>
+</project-private>
